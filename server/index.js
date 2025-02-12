@@ -30,7 +30,7 @@ mongoose
 
 app.use(
   cors({
-    origin: ["*"],
+    origin: "*",
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
