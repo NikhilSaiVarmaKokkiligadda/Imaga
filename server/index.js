@@ -17,7 +17,7 @@ app.listen(4000, (err) => {
 
 
 mongoose
-  .connect("mongodb+srv://nikhilsaivarmak:phbNjhDj2JjkNbw@imagacluster.8yamf.mongodb.net/imagafilesr", {
+  .connect("mongodb+srv://nikhilsaivarmak:phbNjhDj2JjkNbw@imagacluster.8yamf.mongodb.net/?retryWrites=true&w=majority&appName=Imagacluster", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
