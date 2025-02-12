@@ -5,27 +5,6 @@ The backend supports both AWS S3 storage and local storage using Multer.
 This project demonstrates backend API handling, authentication, file storage, and AWS integration.
 
 ---
-![Image Description]("https://github.com/NikhilSaiVarmaKokkiligadda/Imaga/blob/main/server/Screenshot%202025-02-12%20162529.jpg")
-
-![Image Descrion]("server/Screenshot 2025-02-12 162829.jpg")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## **Features**
 - User authentication with JWT (Login & Registration)
